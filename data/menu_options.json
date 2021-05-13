@@ -1,0 +1,20 @@
+{
+    "nombreApp" : "Menu de diseños",
+    "rutas" : [
+        {
+            "ruta" : "basic_desing",
+            "icon" : "photo_size_select_actual_sharp",
+            "texto": "Diseños Basicos"
+        },
+        {
+            "ruta" : "scroll_desing",
+            "icon" : "scatter_plot_outlined",
+            "texto": "Diseño con Scroll"
+        },
+        {
+            "ruta" : "home_screen",
+            "icon" : "home_work_outlined",
+            "texto": "Pantalla Inicio"
+        }
+    ]
+}
